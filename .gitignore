@@ -1,0 +1,5 @@
+# Ignore CrossFit JSON files
+/crossfit/
+
+# Ignore gmaps_key
+gmaps_key.txt
